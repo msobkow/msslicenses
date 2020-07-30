@@ -1,0 +1,39 @@
+Mark Stephen Sobkow's Proprietary BAM License, Version 1.0.
+
+MSS Code Factory Business Application Model is proprietary code
+which may not be modified in any way without a commercial license,
+not even if you are an educational institution.
+
+The binaries may be used by the public to execute the MSS Code
+Factory tool itself, but they may not link their own applications
+to those binaries without a commercial use license.  A commercial
+use license will allow you to link to the binaries, and to extend
+the unmodified binaries and interfaces in your own application code.
+
+MSS Code Factory Business Application Model source is published so
+that you may study it for academic purposes, to perform security
+verification reviews, and for commercial use licensers to debug
+their applications.
+
+Registered .edu educational institutions are permitted to install
+and link the binaries as if they had a commercial use license
+for research and courseware projects.  Such projects may not be
+used to produce commercial or business code, and may not be deployed
+to commercial or business interests, including the educational
+institution's own departments outside that performing the research
+or teaching the course.
+
+Any use of MSS Code Factory Business Application Model binaries or
+source in a production environment under any other circumstances
+without a commercial license from Mark Stephen Sobkow is strictly
+forbidden.
+
+MSS Code Factory Business Application Model is distributed in the
+hope that it will be useful, but WITHOUT ANY WARRANTY; without
+even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Donations to support MSS Code Factory Business Application Model
+can be made at https://www.paypal.com/paypalme2/MarkSobkow
+
+Please contact Mark Stephen Sobkow at msobkow@sasktel.net for commercial licensing.
