@@ -7,9 +7,11 @@ This Project is proprietary code and is only available for production and distri
 builds and environments with a commercial license from Mark Stephen Sobkow.
 
 This Project is published so that you may study it for academic purposes or
-to perform security verification reviews, but you may not deploy the code on
-more than one server, nor for any purpose other than testing and evaluation
-to determine whether you wish to purchase a commercial license.  Registered
+research as part of a recognized educational institution, to perform
+security verification and validation reviews in order to meet internal software
+audit requirements, and for posterity in the event of my demise.  You may not
+deploy the code on more than one server, nor for any purpose other than
+testing to determine whether you wish to purchase a commercial license.  Registered
 .edu educational institutions are permitted to install, deploy, modify, and
 extend this code for research and educational purposes only, but must
 obtain normal commercial licenses for non-research or coursework use.
