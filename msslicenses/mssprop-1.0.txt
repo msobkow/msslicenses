@@ -13,4 +13,7 @@ This Project is distributed in the hope that it will be useful, but
 WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY
 or FITNESS FOR A PARTICULAR PURPOSE.
 
-Please contact Mark Stephen Sobkow at msobkow@sasktel.net for commercial licensing.
+Please contact Mark Stephen Sobkow via msobkow@sasktel.net for commercial licensing.
+
+If you find any of Mark Stephen Sobkow's projects useful, you can make donations at
+https://www.paypal.com/paypalme2/MarkSobkow Paypal.me/MarkSobkow.
